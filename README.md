@@ -1,6 +1,6 @@
 # Youtube downloader
 
-Copy/paste a youtube video in the GUI, click download!
+Copy/paste a youtube video url in the GUI, click download!
 
 Built with tkinter
 
