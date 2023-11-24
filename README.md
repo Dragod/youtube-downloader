@@ -1,5 +1,13 @@
 # Youtube downloader
 
+Copy/paste a youtube video in the GUI, click download!
+
+![Youtube Downloader](./images/youtube-downloader-1.png)
+
+![Youtube Downloader](./images/youtube-downloader-2.png)
+
+![Youtube Downloader](./images/explorer.png)
+
 ## Run script
 
 ```python
